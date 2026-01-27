@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>762a2aca-c03d-451c-b689-17000b51a28e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>819e14ce-5a9c-492b-bfa3-70575d4e9e2a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed6c331a-b0d5-4aa5-9c26-1a7507766e80</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>819e14ce-5a9c-492b-bfa3-70575d4e9e2a</id>
+      <masked>false</masked>
+      <name>NRIC</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed6c331a-b0d5-4aa5-9c26-1a7507766e80</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
 </TestCaseEntity>
